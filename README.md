@@ -1,2 +1,2 @@
 # Credit-profiling.
-Finding potential loan defaulters using machine learning concepts. 
+Finding potential loan defaulters using python machine learning concepts. 
